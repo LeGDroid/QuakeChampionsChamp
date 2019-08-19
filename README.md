@@ -1,2 +1,2 @@
-# QuuakeChampionsChamp
+# QuakeChampionsChamp
 Random Champ for Quake Champions
